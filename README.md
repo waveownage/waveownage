@@ -2,7 +2,7 @@
 
 - 🔭 Full Stack Web Developer.
 - 🇬🇧 Based in Tampa FL,
-- 🏠 https://freeman-portfolio.netlify.app/
+- 🏠 https://andrefreeman-portfolio.netlify.app/
 
 ### Get in touch 📧
 
